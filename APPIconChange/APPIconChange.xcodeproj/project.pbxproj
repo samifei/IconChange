@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		2CA2185F1F259AD70076E77C /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = 2CA2185E1F259AD70076E77C /* README.md */; };
+		2CA218611F259BF00076E77C /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = 2CA218601F259BF00076E77C /* README.md */; };
 		2CFAF9541F1C894A001B09D9 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 2CFAF9531F1C894A001B09D9 /* main.m */; };
 		2CFAF9571F1C894A001B09D9 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 2CFAF9561F1C894A001B09D9 /* AppDelegate.m */; };
 		2CFAF95A1F1C894A001B09D9 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2CFAF9591F1C894A001B09D9 /* ViewController.m */; };
@@ -46,7 +46,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		2CA2185E1F259AD70076E77C /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		2CA218601F259BF00076E77C /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		2CFAF94F1F1C894A001B09D9 /* APPIconChange.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = APPIconChange.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2CFAF9531F1C894A001B09D9 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		2CFAF9551F1C894A001B09D9 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -102,7 +102,7 @@
 		2CFAF9461F1C894A001B09D9 = {
 			isa = PBXGroup;
 			children = (
-				2CA2185E1F259AD70076E77C /* README.md */,
+				2CA218601F259BF00076E77C /* README.md */,
 				2CFAF9511F1C894A001B09D9 /* APPIconChange */,
 				2CFAF9501F1C894A001B09D9 /* Products */,
 			);
@@ -304,7 +304,7 @@
 			files = (
 				2CFAF95A1F1C894A001B09D9 /* ViewController.m in Sources */,
 				2CFAF9571F1C894A001B09D9 /* AppDelegate.m in Sources */,
-				2CA2185F1F259AD70076E77C /* README.md in Sources */,
+				2CA218611F259BF00076E77C /* README.md in Sources */,
 				2CFAF9541F1C894A001B09D9 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
